@@ -10,3 +10,9 @@ you have a suggestion to how it should be done, feel free to send me a
 pull request.
 
 https://godoc.org/github.com/borud/tdf
+
+## Example
+
+    filename := tdf.Find("my/file")
+	
+will return the path to `.../test/my/file` within your project.
