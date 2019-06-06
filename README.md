@@ -9,3 +9,4 @@ tests within your home directory.  If this doesn't work for you and
 you have a suggestion to how it should be done, feel free to send me a
 pull request.
 
+https://godoc.org/github.com/borud/tdf
